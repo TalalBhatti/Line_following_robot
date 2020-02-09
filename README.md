@@ -1,6 +1,7 @@
 # Line_following_robot
 Line following robot with 3 IR sensors
 Line following robot with 2 IR sensors
+Motor test are also available in this repository.
 
 
 0 is for Low which means Black strip
